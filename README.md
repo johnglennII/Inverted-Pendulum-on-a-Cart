@@ -10,7 +10,7 @@ In this project, I developed blah blah blah.
 * Handled simulated range and range-rate measurements.
 
 ## Visuals
-<img src="./media/pendulum_assembly.PNG" width="50%" alt="Pendulum Assembly">
+<img src="./media/pendulum_assembly.png" width="50%" alt="Pendulum Assembly">
 
 ## Skills Used
 **Software:** MATLAB, Simulink, Simulink Desktop Real-Time
